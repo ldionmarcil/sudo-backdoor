@@ -24,7 +24,7 @@
 # uid=0(root) gid=0(root) groups=0(root),1(bin),2(daemon),3(sys),4(adm),6(disk),10(wheel),19(log)
 # [foobar:~]$ cat /tmp/.ICE-unix-test 
 # foobar:barbaz:invalid
-# foobar:foobar:valid
+# foobar:foobarz1:valid
 # [foobar:~]$ sudo id [the system remembers previous authentification]
 # uid=0(root) gid=0(root) groups=0(root),1(bin),2(daemon),3(sys),4(adm),6(disk),10(wheel),19(log)
 
